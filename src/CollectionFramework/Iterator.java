@@ -19,7 +19,6 @@ public class Iterator
      public void SimpleIterator()
 
      {
-
          ArrayList al= new ArrayList<>();
          System.out.println("Please Enter the 10 numbers to find the Even numbers from them");
          for (int i= 0; i<=10; i++)
