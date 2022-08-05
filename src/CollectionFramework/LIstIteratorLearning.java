@@ -22,7 +22,6 @@ public class LIstIteratorLearning
         System.out.println(arl);
 
 
-
         ListIterator li= arl.listIterator();// this is new iterator
         int EvenCounter=0;
         while(li.hasNext())// here we have used has next method
